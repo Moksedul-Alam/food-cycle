@@ -22,7 +22,7 @@ text-align: justify;
     padding: 10px 20px;
     border-radius: 30px;
     background-image: linear-gradient(tomato,orange);
-    
+   color: white; 
 }
 
 .image{
@@ -77,6 +77,36 @@ font-size: 40px;
     margin-bottom: 50px;
     padding: 10px;
 }
+.contact-me{
+
+width: 100%;
+margin-top: 50px;
+
+}
+.all-contact{
+    display: flex;
+}
+.contact-header{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    background-color: turquoise;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 40px;
+    
+}
+.contact{
+    
+width: 14%;
+margin-left: 5%;
+margin-right:5%;
+padding: 2%;
+background-color: silver;
+box-shadow: 10px 10px 30px gray;
+}
+
+
 .footer{
 
     background-color: dimgray;
